@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="gps_enable">GPS Enable</string>
+    <string name="gps_enable_question">You want to activate GPS?</string>
+    <string name="failure_connecting">Failed Connection</string>
+    <string name="wifi_enabled">Wifi enabled</string>
+    <string name="mobile_data_enabled">Mobile data enabled</string>
+    <string name="no_internet">Without internet</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="cast">CAST</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="genre">GENRE</string>
+    <string name="language">LANGUAGE</string>
+    <string name="runtime">DURATION</string>
+    <string name="book_now">Book now</string>
+    <string name="runtime_min">%s min</string>
+    <string name="error_internet">No Internet Connection</string>
+</resources>
