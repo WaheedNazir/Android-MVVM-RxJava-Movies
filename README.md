@@ -9,7 +9,7 @@ Movies sample app developed MVVM architecture design pattern that follow the bes
  5. Retrofit
  6. Repository Pattern
  9. AndroidX
- 10. IMBD Movies API
+ 10. TMDB Movies API
  10. Room Database
  11. JetPack Libraries
 
